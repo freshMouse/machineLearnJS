@@ -1,0 +1,9 @@
+{
+  "name": "machineLeanJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "machine_learning": "^0.1.1"
+  }
+}
